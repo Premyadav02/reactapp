@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(34, 101, 146); */
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-top: 3%;
+    margin-right: auto;
+    width: 6cm;
+    background-color: rgb(190, 85, 85);
+    border-radius:260px;
+    
+    /* align-items:flex-start; */
+}
+.para{
+   text-align: center;
+   background-color: black;
+   margin-top: 3%;
+   color: wheat;
+   font-size: 40px;
+}
+.div1{
+    background-color: rgb(77, 77, 78);
+}
+.home{
+    margin-top: 3%;
+    text-align: center;
+    background-color: rgb(55, 83, 88);
+    font-size: 23px;
+    color: wheat;
+}

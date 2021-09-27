@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(250, 208, 152);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 5px; */
+    color: rgb(8, 8, 8);
+    width: 100%;
+}
+.nav{
+    background-color: rgb(250, 208, 152);
+    
+}
+.home{
+    border-radius: 16px;
+    width: 59px;
+    height: 25px;
+    margin: 0px 10px  0px;
+    outline: none;
+    /* border: solid black; */
+    cursor: pointer;
+}
+.skill{
+    border-radius: 16px;
+    width: 58px;
+    height: 25px;
+    margin: 0px 10px  0px;
+    outline: none;
+    cursor: pointer;
+}
+.about{
+    border-radius: 16px;
+    width: 58px;
+    height: 25px;
+    margin: 0px 10px 5px ;
+    padding: auto;
+    outline: none;
+    cursor: pointer;
+}
